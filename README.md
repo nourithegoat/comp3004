@@ -1,7 +1,7 @@
 # COMP 3004 - PostgreSQL & Python CRUD Application
 
 ## Video Demonstration
-- **Demo Video Link:** [Insert YouTube / Vimeo / Cloud Drive Link Here]
+- **Demo Video Link:** [https://youtu.be/6oIm84MA8Q4]
 
 ## Project Structure
 - `db/schema.sql` — SQL script to create the `students` table and insert initial records.
